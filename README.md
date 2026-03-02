@@ -1,5 +1,11 @@
-# daryljb
-README.md
+# daryljb README.md
+![](https://komarev.com/ghpvc/?username=daryljb&color=blue)
+## 🚧 Currently Building
+
+- Talent strategies for scaling tech companies
+- AI-driven hiring workflows
+- VITA — Health & Performance Token concept
+- 
 <h1 align="center">Hi, I'm Daryl 👋</h1>
 
 <p align="center">
@@ -50,3 +56,41 @@ That foundation still shapes how I operate today:
 ---
 
 ## 🛠️ Tech & Tools I Work With
+ATS: Greenhouse | Ashby | Lever | Workday
+Data: Notion | Looker | Sheets | Analytics
+Automation: Zapier | APIs | AI tooling
+Collaboration: Slack | Jira | Confluence
+Hiring: Global Remote & Distributed Teams
+
+
+---
+
+## 📈 Career Snapshot
+
+- 10+ years in Talent & Recruitment
+- Led global TA functions
+- Scaled multiple venture-backed SaaS companies
+- Experience across FTSE & Defence environments
+- Built hiring capability from 0 → scale
+
+---
+
+## 🏉 Outside Work
+
+- Rugby player
+- Fitness & performance focused
+- Builder mindset
+- Always learning
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/daryljb/
+- 🌍 Open to collaboration, advisory & interesting problems
+
+---
+
+<p align="center">
+⚡ Building teams that build great companies ⚡
+</p>
