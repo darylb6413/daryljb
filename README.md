@@ -4,8 +4,9 @@
 
 - Talent strategies for scaling tech companies
 - AI-driven hiring workflows
-- VITA — Health & Performance Token concept
-- 
+- AI ATS concept (playing around)
+- VITA — Health & Performance Token concept (playing around)
+  
 <h1 align="center">Hi, I'm Daryl 👋</h1>
 
 <p align="center">
